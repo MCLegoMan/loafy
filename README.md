@@ -5,4 +5,4 @@ Changes all items into BREAD...
 If you choose to do so anyway, use at your own risk and make sure you backup.  
 
 # Requires  
-- Fabric Loader for Minecraft Beta 1.7.3 (such as [Babric](https://babric.github.io/)).  
+- Fabric Loader for any version of Minecraft between 1.3 and 1.6.4 (such as [Legacy Fabric](https://legacyfabric.net/)).  
