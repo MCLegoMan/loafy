@@ -4,7 +4,6 @@
 	"package": "com.mclegoman.loafy.mixin",
 	"compatibilityLevel": "JAVA_8",
 	"mixins": [
-		"ItemMixin",
 		"ItemStackMixin"
 	],
 	"injectors": {
